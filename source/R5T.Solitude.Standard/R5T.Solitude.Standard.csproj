@@ -4,4 +4,9 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>1701;1702;1591;1573</NoWarn>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Solitude.Soltana\source\R5T.Solitude.Soltana\R5T.Solitude.Soltana.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Soltana.Standard\source\R5T.Soltana.Standard\R5T.Soltana.Standard.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Solutas.Standard\source\R5T.Solutas.Standard\R5T.Solutas.Standard.csproj" />
+  </ItemGroup>
 </Project>
