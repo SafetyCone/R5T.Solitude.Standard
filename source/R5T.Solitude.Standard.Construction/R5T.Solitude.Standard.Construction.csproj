@@ -1,6 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Bath.Console.Standard\source\R5T.Bath.Console.Standard\R5T.Bath.Console.Standard.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Chalandri.DropboxRivetTestingData\source\R5T.Chalandri.DropboxRivetTestingData\R5T.Chalandri.DropboxRivetTestingData.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Evosmos.CDriveTemp\source\R5T.Evosmos.CDriveTemp\R5T.Evosmos.CDriveTemp.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Odense.Standard\source\R5T.Odense.Standard\R5T.Odense.Standard.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Richmond\source\R5T.Richmond\R5T.Richmond.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Solgene.VS2017.Standard\source\R5T.Solgene.VS2017.Standard\R5T.Solgene.VS2017.Standard.csproj" />
     <ProjectReference Include="..\R5T.Solitude.Standard\R5T.Solitude.Standard.csproj" />
   </ItemGroup>
 
