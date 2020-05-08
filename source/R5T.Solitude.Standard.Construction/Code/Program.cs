@@ -13,7 +13,7 @@ using R5T.Ilioupoli.Default;
 using R5T.Lombardy;
 using R5T.Magyar.IO;
 using R5T.Odense;
-using R5T.Richmond;
+using R5T.Liverpool;
 using R5T.Solgene;
 using R5T.Soltana;
 using R5T.Solutas;
@@ -51,7 +51,7 @@ namespace R5T.Solitude.Standard.Construction
             //this.MoveProjectsOutOfSolutionFolder();
             //this.RemoveSolutionFolderAndContents();
             //this.ListRootProjectFilePaths();
-            this.ListProjectsInSolutionFile();
+            //this.ListProjectsInSolutionFile();
         }
 
         private void CreateNewSolutionFile()
@@ -316,7 +316,7 @@ namespace R5T.Solitude.Standard.Construction
 
         static void Main(string[] args)
         {
-            using (var serviceProvider = ServiceProviderBuilder.NewUseStartup<Startup>() as ServiceProvider)
+            using (var serviceProvider = ServiceProviderServiceBuilder.New().UseStartupAndBuild<Startup>())
             {
                 var program = serviceProvider.GetRequiredService<Program>();
 
