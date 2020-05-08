@@ -247,6 +247,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Odense.Base", "..\..\R5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Cambridge.Extensions", "..\..\R5T.Cambridge.Extensions\source\R5T.Cambridge.Extensions\R5T.Cambridge.Extensions.csproj", "{9FE86F13-2114-4054-AB8C-A51AA2F185EF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Richmond.Types", "..\..\R5T.Richmond.Types\source\R5T.Richmond.Types\R5T.Richmond.Types.csproj", "{1520D0D4-15E7-4F3C-9403-46151DFC1D52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1709,6 +1711,18 @@ Global
 		{9FE86F13-2114-4054-AB8C-A51AA2F185EF}.Release|x64.Build.0 = Release|Any CPU
 		{9FE86F13-2114-4054-AB8C-A51AA2F185EF}.Release|x86.ActiveCfg = Release|Any CPU
 		{9FE86F13-2114-4054-AB8C-A51AA2F185EF}.Release|x86.Build.0 = Release|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Debug|x64.Build.0 = Debug|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Debug|x86.Build.0 = Debug|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Release|x64.ActiveCfg = Release|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Release|x64.Build.0 = Release|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Release|x86.ActiveCfg = Release|Any CPU
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1834,6 +1848,7 @@ Global
 		{11EF70BF-1443-4293-990E-B24C99A6716C} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
 		{C60D2756-9981-4454-A876-F6DEAD218223} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
 		{9FE86F13-2114-4054-AB8C-A51AA2F185EF} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
+		{1520D0D4-15E7-4F3C-9403-46151DFC1D52} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03467EE4-C0AC-4183-ABEA-4CB76F4A0468}
