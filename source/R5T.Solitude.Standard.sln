@@ -85,6 +85,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Solutas.Tiros", "..\..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Cambridge.Extensions", "..\..\R5T.Cambridge.Extensions\source\R5T.Cambridge.Extensions\R5T.Cambridge.Extensions.csproj", "{BE5BFDD8-740F-4C46-890A-151C4C7406C1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Angleterria", "..\..\R5T.Angleterria\source\R5T.Angleterria\R5T.Angleterria.csproj", "{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -575,6 +577,18 @@ Global
 		{BE5BFDD8-740F-4C46-890A-151C4C7406C1}.Release|x64.Build.0 = Release|Any CPU
 		{BE5BFDD8-740F-4C46-890A-151C4C7406C1}.Release|x86.ActiveCfg = Release|Any CPU
 		{BE5BFDD8-740F-4C46-890A-151C4C7406C1}.Release|x86.Build.0 = Release|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Debug|x64.Build.0 = Debug|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Debug|x86.Build.0 = Debug|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Release|x64.ActiveCfg = Release|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Release|x64.Build.0 = Release|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -618,6 +632,7 @@ Global
 		{A8F803A9-CD2E-4A83-AE81-CBB8AB55B7F1} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
 		{B4393182-9426-445F-B7AC-948A92A85A02} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
 		{BE5BFDD8-740F-4C46-890A-151C4C7406C1} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
+		{D07B6EA4-70B0-4B81-A6E2-CB6E7D8228CE} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03467EE4-C0AC-4183-ABEA-4CB76F4A0468}
