@@ -251,6 +251,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Richmond.Abstractions",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Richmond.Types", "..\..\R5T.Richmond.Types\source\R5T.Richmond.Types\R5T.Richmond.Types.csproj", "{02FA2A4B-3903-456A-B932-AE0C35725923}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Angleterria", "..\..\R5T.Angleterria\source\R5T.Angleterria\R5T.Angleterria.csproj", "{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1737,6 +1739,18 @@ Global
 		{02FA2A4B-3903-456A-B932-AE0C35725923}.Release|x64.Build.0 = Release|Any CPU
 		{02FA2A4B-3903-456A-B932-AE0C35725923}.Release|x86.ActiveCfg = Release|Any CPU
 		{02FA2A4B-3903-456A-B932-AE0C35725923}.Release|x86.Build.0 = Release|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Debug|x64.Build.0 = Debug|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Debug|x86.Build.0 = Debug|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Release|x64.ActiveCfg = Release|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Release|x64.Build.0 = Release|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Release|x86.ActiveCfg = Release|Any CPU
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1864,6 +1878,7 @@ Global
 		{DFDCEB73-4843-4ACA-BA47-026DB068D944} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
 		{AB954DA8-EF03-4AFA-B36F-8C618D8ACF17} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
 		{02FA2A4B-3903-456A-B932-AE0C35725923} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
+		{0745CF2C-DBEA-4103-BA9A-C9F67EAE87F7} = {D1D200B6-323C-4301-8073-DFAD6C50FBBD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03467EE4-C0AC-4183-ABEA-4CB76F4A0468}
